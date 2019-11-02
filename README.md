@@ -1,2 +1,2 @@
 # JunitTestcases
-Learing pratice for wirting junit testcase in Java 
+Learing to write unit test cases for Java code.
