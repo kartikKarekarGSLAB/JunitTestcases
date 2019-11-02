@@ -16,9 +16,17 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
+    <spring.version>4.0.1.RELEASE</spring.version>
   </properties>
 
   <dependencies>
+	<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+	<dependency>
+	    <groupId>org.apache.commons</groupId>
+	    <artifactId>commons-lang3</artifactId>
+	    <version>3.0</version>
+	</dependency>
+  	<!-- JUNIT depdendency -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
